@@ -2,53 +2,42 @@
 
 ## Overview
 
-Directory Structure  
-|- LivingSpace/  
-|-- data/  
-|  
-|-- src/  
-|--- get_data/  
-|--- create_maps/  
-|--- score_maps/  
-|--- debug/  
-|- LivingSpaceFrontend/
-
 Backend Scripts Contents  
 src/create_maps:  
->>>>>	DropIDs.py  
->>>>>	clean_travel_data.py  
->>>>>	gen_atl_map_ids.py  
->>>>>	gen_busmap.py  
->>>>>	gen_subwaymap.py  
+>	DropIDs.py  
+>	clean_travel_data.py  
+>	gen_atl_map_ids.py  
+>	gen_busmap.py  
+>	gen_subwaymap.py  
 
 src/debug:  
->>>>>	generateSample.py  
->>>>>	loadData.py  
->>>>>	plot_points.py  
->>>>>	verify_bus_stop.py  
->>>>>	verify_crime.py  
->>>>>	verify_restaurant.py  
->>>>>	verify_subway_stop.py  
->>>>>	visualizeClusterData.py  
+>	generateSample.py  
+>	loadData.py  
+>	plot_points.py  
+>	verify_bus_stop.py  
+>	verify_crime.py  
+>	verify_restaurant.py  
+>	verify_subway_stop.py  
+>	visualizeClusterData.py  
 
 src/get_data:  
->>>>>	getTravelTimes.py  
->>>>>	get_yelp_data.py  
+>	getTravelTimes.py  
+>	get_yelp_data.py  
 
 src/score_maps:  
->>>>>	GenerateScores.py  
->>>>>	get_bus_score.py  
->>>>>	get_parks_score.py  
->>>>>	get_score_crime.py  
->>>>>	get_score_restaurants.py  
->>>>>	get_subway_score.py  
->>>>>	score_map_by_cluster.py  
+>	GenerateScores.py  
+>	get_bus_score.py  
+>	get_parks_score.py  
+>	get_score_crime.py  
+>	get_score_restaurants.py  
+>	get_subway_score.py  
+>	score_map_by_cluster.py  
 
 Frontend Contents  
->>>>>	combined_scores.json  
->>>>>	index.html  
->>>>>	scripts.js  
->>>>>	styles.css  
+>	combined_scores.json  
+>	index.html  
+>	scripts.js  
+>	styles.css  
 
 The process to generate the visualization occurs in the following stages:
 1. Data Collection
