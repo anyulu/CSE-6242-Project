@@ -2,15 +2,15 @@
 
 ## Overview
 
-Directory Structure
-|- LivingSpace/
-|-- data/
+Directory Structure  
+|- LivingSpace/  
+|-- data/  
 |
-|-- src/
-|--- get_data/
-|--- create_maps/
-|--- score_maps/
-|--- debug/
+|-- src/  
+|--- get_data/  
+|--- create_maps/  
+|--- score_maps/  
+|--- debug/  
 |- LivingSpaceFrontend/
 
 Backend Scripts Contents
