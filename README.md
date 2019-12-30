@@ -1,4 +1,4 @@
-# CSE-6242-Project   LivingSpace
+# CSE 6242 Project: LivingSpace
 
 ## Overview
 
