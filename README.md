@@ -250,4 +250,4 @@ To run locally:
 4. Open your browser at http://localhost:<port_number>/
 
 ## Live Online Demo
-http://benjamindupreez.com/living-space/
+https://benjamindupreez.github.io/LivingSpaceFrontend/
